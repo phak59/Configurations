@@ -70,7 +70,7 @@
 
 // Choose the name from boards.h that matches your setup
 #ifndef MOTHERBOARD
-  #define MOTHERBOARD BOARD_BTT_SKR_E3_TURBO
+  #define MOTHERBOARD BOARD_BIGTREE_GD_TFT35_E3.27x
 #endif
 
 /**
